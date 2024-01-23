@@ -152,9 +152,9 @@ var BibleInfo = new function() {
 
 
 		/*
-	When given an Osis reference, this parses it and returns an
-	object like {"book": "John", "chapter": 3, "verse": 16}
-	If the reference is invalid, we return undefined.
+		When given an Osis reference, this parses it and returns an
+		object like {"book": "John", "chapter": 3, "verse": 16}
+		If the reference is invalid, we return undefined.
 		The OsisRef can be uppercase or lowercase or any combination.
 		*/
 	this.parseOsis = function (OsisReference) {
