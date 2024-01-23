@@ -1,3 +1,5 @@
+// https://github.com/welcome-me/Bible-Info
+
 "use strict";
 
 function BibleInfo() {
